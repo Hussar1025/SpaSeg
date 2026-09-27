@@ -29,7 +29,7 @@ In this work, we present a benchmark study encompassing 16 cell segmentation met
 - DISSECT: 《Integratingcytological images and spatialtranscriptomics for cell segmentation with DISSECT》
 
 ## Dataset
-In this work, We benchmark the 16 cell segmentation methods on 27 datasets, include Xenium (10x Genomics), Cosmx, Merfish and so on, which provide multimodal in situ spatial transcriptomics data—including high-resolution fluorescence images and spatially resolved gene expression profiles. The following datasets are as follows:
+In this work, We benchmark the 16 cell segmentation methods on 31 datasets, include Xenium (10x Genomics), Cosmx, Merfish and so on, which provide multimodal in situ spatial transcriptomics data—including high-resolution fluorescence images and spatially resolved gene expression profiles. The following datasets are as follows:
 - **Xenium**
   - [Pancreatic Cancer with Xenium Human Multi-Tissue and Cancer Panel](https://www.10xgenomics.com/datasets/pancreatic-cancer-with-xenium-human-multi-tissue-and-cancer-panel-1-standard)
   - [Xenium v1 Human Breast FFPE with Biomarkers & Housekeeping Genes Custom Panel](https://www.10xgenomics.com/datasets/xenium-ffpe-human-breast-biomarkers)

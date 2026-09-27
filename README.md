@@ -39,7 +39,7 @@ In this work, We benchmark the 16 cell segmentation methods on 31 datasets, incl
   - [Fresh Frozen Mouse Colon with Xenium Multimodal Cell Segmentation](https://www.10xgenomics.com/datasets/fresh-frozen-mouse-colon-with-xenium-multimodal-cell-segmentation-1-standard)
   - [Preview Data: FFPE Human Prostate Adenocarcinoma with 5K Human Pan Tissue and Pathways Panel](https://www.10xgenomics.com/datasets/xenium-prime-ffpe-human-prostate)
   - [FFPE Human Cervical Cancer with 5K Human Pan Tissue and Pathways Panel plus 100 Custom Genes](https://www.10xgenomics.com/datasets/xenium-prime-ffpe-human-cervical-cancer)
-  - [SPATCH Xenium 5k COAD CODEX&Transcriptome](https://spatch.pku-genomics.org/#/dataset/xenium)
+  - [Preview Data: FFPE Human Skin Primary Dermal Melanoma with 5K Human Pan Tissue and Pathways Panel](https://www.10xgenomics.com/datasets/xenium-prime-ffpe-human-skin)
   - [Xenium In Situ Gene and Protein Expression data for Human FFPE Clear Cell Renal Cell Carcinoma (ccRCC)](https://www.10xgenomics.com/datasets/xenium-protein-ffpe-human-renal-ccrcc)
 
 - **CosMx**
